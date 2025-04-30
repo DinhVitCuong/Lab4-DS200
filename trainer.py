@@ -13,7 +13,7 @@ class SparkConfig:
     receivers = 4
     host = "local"
     stream_host = "localhost"
-    port = 6100
+    port = 43210
     batch_interval = 2
 
 from dataloader import DataLoader
